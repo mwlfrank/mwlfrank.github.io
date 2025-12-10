@@ -1,26 +1,43 @@
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
-        <button><div class="navicon"></div></button>
+      <!-- 给 nav 加 position: relative，方便里面元素绝对定位 -->
+      <nav id="site-nav" class="greedy-nav" style="position: relative;">
+
+        <button>
+          <div class="navicon"></div>
+        </button>
+
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">Homepage</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
+            <a href="#about-me">Homepage</a>
+          </li>
           {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            <li class="masthead__menu-item">
+              <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
+            </li>
           {% endfor %}
         </ul>
-        <!-- ====================================================== -->
-        <!-- Right-side ESSEC Logo (ADD THIS PART) -->
-        <!-- ====================================================== -->
-        <a class="school-logo" href="https://www.essec.edu/" target="_blank" style="margin-left:auto;">
-          <img src="{{ '/images/essec-logo.png' | relative_url }}" 
-               alt="ESSEC Logo" 
-               style="height:38px; vertical-align:middle;">
-        </a>
-        <!-- ====================================================== -->
-        
+
         <ul class="hidden-links hidden"></ul>
+
+        <!-- ================================
+             右上角 ESSEC Logo（关键部分）
+             ================================ -->
+        <a class="school-logo"
+           href="https://www.essec.edu/"
+           target="_blank"
+           style="position:absolute;
+                  right:1.5rem;
+                  top:50%;
+                  transform:translateY(-50%);">
+          <img src="{{ '/images/essec-logo.png' | relative_url }}"
+               alt="ESSEC Logo"
+               style="height:32px;">
+        </a>
+
       </nav>
     </div>
   </div>
 </div>
+
