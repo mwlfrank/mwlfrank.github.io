@@ -61,5 +61,6 @@ Outside of academia, I enjoy swimming, playing badminton, reading history, and t
 # 🔥 News
 
 # CV
-[**Download CV (PDF)**](files/CV.pdf){: .btn .btn-primary }
+[**Download CV (PDF)**](assets/CV.pdf)
+{: .btn .btn-primary }
 
