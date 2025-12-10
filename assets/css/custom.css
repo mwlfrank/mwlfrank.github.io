@@ -1,0 +1,14 @@
+.btn {
+    background-color: transparent !important; 
+    border: none !important;
+    box-shadow: none !important;
+    font-size: 1.1rem;
+    font-weight: 500;
+    color: #003f7f !important; 
+    padding: 0 !important;
+}
+
+.btn:hover {
+    text-decoration: underline;
+    color: #002855 !important;
+}
