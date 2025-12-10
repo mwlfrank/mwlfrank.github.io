@@ -20,6 +20,7 @@ redirect_from:
 I am a PhD student in Finance at ESSEC Business School. I hold a Master’s degree in Advanced Economics and Finance from Copenhagen Business School and a Master’s degree in Construction Economics and Management from University College London (UCL).
 My research focuses on empirical corporate finance, especially issues at the intersection of institutional investors, corporate governance, politics, and sustainable finance.
 
+
 Outside of academia, I enjoy swimming, playing badminton, reading history, and traveling. I am also a devoted FC Barcelona fan. Visca Barça!
 
 # 📖 Educations
@@ -29,10 +30,12 @@ Outside of academia, I enjoy swimming, playing badminton, reading history, and t
 - *2020.09 - 2021.09*  Master of Science in Construction Economics and Management, University College London
 - *2016.08 - 2020.06*  Bachelor of Economics, Shanghai University, School of Economics
 
+
 # 📝 Research
 ## Working Papers
 
 ## Working in Progress
+
 
 # 💡 Teaching
 - *2024.09 - 2024.12*  Introduction to Econometrics (PhD), Teaching Assistant, ESSEC Business School
@@ -50,7 +53,13 @@ Outside of academia, I enjoy swimming, playing badminton, reading history, and t
 -	Innovation Scholarship, Shanghai University, 2018
 - China Scholarship Council, Exchange Program at University West (Swedish: Högskolan Väst), 2018
 
+
 # 🀅 Professional Qualification
 - *2025.04 – Now* ACCA Member
 
+
 # 🔥 News
+
+# CV
+[**Download CV (PDF)**](files/CV.pdf){: .btn .btn-primary }
+
