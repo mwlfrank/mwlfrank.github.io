@@ -7,19 +7,24 @@
    ========================================================================== */
 
 .btn {
-  background-color: transparent !important;
-  color: $primary-color !important;
-  border: none !important;
-  box-shadow: none !important;
-  padding: 0;
-  font-weight: 500;
+  /* default button */
+  display: inline-block;
+  margin-bottom: 0.25em;
+  padding: 0.5em 1em;
+  color: #fff !important;
+  font-family: $sans-serif;
+  font-size: $type-size-6;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  background-color: $primary-color;
+  border: 0 !important;
+  border-radius: $border-radius;
+  cursor: pointer;
 
   &:hover {
-    text-decoration: underline;
-    background-color: transparent !important;
-    color: darken($primary-color, 10%) !important;
+    background-color: mix(white, #000, 20%);
   }
-}
 
   .icon {
     margin-right: 0.5em;
