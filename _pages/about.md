@@ -53,7 +53,4 @@ Outside of academia, I enjoy swimming, playing badminton, reading history, and t
 # 🀅 Professional Qualification
 - *2025.04 – Now* ACCA Member
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-
 # 🔥 News
