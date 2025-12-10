@@ -17,18 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student in Finance at ESSEC Business School. I hold a Master’s degree in Advanced Economics and Finance from Copenhagen Business School and a Master’s degree in Construction Economics and Management from University College London (UCL).
-My research focuses on empirical corporate finance, especially issues at the intersection of institutional investors, corporate governance, politics, and sustainable finance.
-
+I am a PhD student in Finance at ESSEC Business School. I hold a Master’s degree in Advanced Economics and Finance from Copenhagen Business School and a Master’s degree in Construction Economics and Management from University College London (UCL). My research focuses on empirical corporate finance, especially in the intersection of institutional investors, corporate governance, politics, and sustainable finance.
 
 Outside of academia, I enjoy swimming, playing badminton, reading history, and traveling. I am also a devoted FC Barcelona fan. Visca Barça!
 
 # 📖 Educations
-- *2023.09 - now*, PhD Student in Finance, ESSEC Business School
-- *2023.09 - 2025.07*, Master of Science in Business Administration Research, ESSEC Business School
-- *2021.09 - 2023.07*, Master of Science in Advanced Economics and Finance, Copenhagen Business School
-- *2020.09 - 2021.09*  Master of Science in Construction Economics and Management, University College London
-- *2016.08 - 2020.06*  Bachelor of Economics, Shanghai University, School of Economics
+- *2023.09 - Now*, &nbsp; &nbsp; &nbsp; &nbsp; PhD Student in Finance, ESSEC Business School
+- *2023.09 - 2025.07*,   &nbsp; Master of Science in Business Administration Research, ESSEC Business School
+- *2021.09 - 2023.07*,    &nbsp; Master of Science in Advanced Economics and Finance, Copenhagen Business School
+- *2020.09 - 2021.09*,     &nbsp; Master of Science in Construction Economics and Management, University College London
+- *2016.08 - 2020.06*,    &nbsp; Bachelor of Economics, Shanghai University, School of Economics
 
 
 # 📝 Research
@@ -38,9 +36,9 @@ Outside of academia, I enjoy swimming, playing badminton, reading history, and t
 
 
 # 💡 Teaching
-- *2024.09 - 2024.12*  Introduction to Econometrics (PhD), Teaching Assistant, ESSEC Business School
-- *2023.01 - 2023.05*  Quantitative Business Research (BSc), Assistant Lecturer, Copenhagen Business School
-- *2023.01 - 2023.05*  Predictive Analysis (MSc), Teaching Assistant, Copenhagen Business School
+- *2024.09 - 2024.12* &nbsp; Introduction to Econometrics (PhD), Teaching Assistant, ESSEC Business School
+- *2023.01 - 2023.05* &nbsp; Quantitative Business Research (BSc), Assistant Lecturer, Copenhagen Business School
+- *2023.01 - 2023.05* &nbsp; Predictive Analysis (MSc), Teaching Assistant, Copenhagen Business School
 
 
 # 🎖 Honors and Awards
@@ -55,7 +53,7 @@ Outside of academia, I enjoy swimming, playing badminton, reading history, and t
 
 
 # 🀅 Professional Qualification
-- *2025.04 – Now* ACCA Member
+- *2025.04 – Now* &nbsp; ACCA Member
 
 
 # 🔥 News
