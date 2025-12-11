@@ -19,7 +19,7 @@ redirect_from:
 
 I am a PhD student in Finance at ESSEC Business School. I hold a Master’s degree in Advanced Economics and Finance from Copenhagen Business School and a Master’s degree in Construction Economics and Management from University College London (UCL). My research focuses on empirical corporate finance, especially in the intersection of institutional investors, corporate governance, politics, and sustainable finance.
 
-Outside of academia, I enjoy swimming, playing badminton, reading history, and traveling. I am also a devoted FC Barcelona fan. Visca Barça!
+Outside of academia, I enjoy swimming, playing badminton, reading history, and traveling. I am also a crazy FC Barcelona fan. Visca Barça!
 
 # 📖 Educations
 - *2023.09 - Now*, &nbsp; &nbsp; &nbsp; &nbsp; PhD Student in Finance, ESSEC Business School
@@ -43,7 +43,7 @@ Outside of academia, I enjoy swimming, playing badminton, reading history, and t
 
 # 🎖 Honors and Awards
 -	ESSEC Business School PhD Scholarship, 2023 
--	Danish Government Scholarship, 2021
+-	Danish Government Scholarship (approximately 400,000 DKK), 2021
 -	Excellent Graduation Thesis, Shanghai University, 2020
 -	Excellent Graduate Student, Shanghai University, 2020 
 -	The Golden Scholarship for Exchange Programme, 2019 
