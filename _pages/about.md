@@ -17,7 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 <br/>
-I am a PhD student in Finance at ESSEC Business School. I hold a Master’s degree in Advanced Economics and Finance from Copenhagen Business School and a Master’s degree in Construction Economics and Management from University College London (UCL). My research focuses on empirical corporate finance, especially in the intersection of institutional investors, corporate governance, politics, and sustainable finance.
+# About Me
+I am a PhD student in Finance at ESSEC Business School. I hold a Master’s degree in Advanced Economics and Finance from Copenhagen Business School and a Master’s degree in Construction Economics and Management from University College London (UCL). My research focuses on empirical corporate finance, especially in the intersection of institutional investors, corporate governance, politics, and sustainable finance. 
+
+<br/>
 
 Outside of academia, I enjoy swimming, playing badminton, reading history, and traveling. I am also a crazy FC Barcelona fan. Visca Barça!
 
