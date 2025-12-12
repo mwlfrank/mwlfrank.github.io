@@ -21,6 +21,8 @@ I am a PhD student in Finance at ESSEC Business School. I hold a Master’s degr
 
 Outside of academia, I enjoy swimming, playing badminton, reading history, and traveling. I am also a crazy FC Barcelona fan. Visca Barça!
 
+<br/>
+
 # 📖 Educations
 - *2023.09 - Now*, &nbsp; &nbsp; &nbsp; &nbsp; PhD Student in Finance, ESSEC Business School
 - *2023.09 - 2025.07*,   &nbsp; Master of Science in Business Administration Research, ESSEC Business School
@@ -28,18 +30,21 @@ Outside of academia, I enjoy swimming, playing badminton, reading history, and t
 - *2020.09 - 2021.09*,     &nbsp; Master of Science in Construction Economics and Management, University College London
 - *2016.08 - 2020.06*,    &nbsp; Bachelor of Economics, Shanghai University, School of Economics
 
+<br/>
 
 # 📝 Research
 - ## Working Papers
 
 - ## Working in Progress
 
+<br/>
 
 # 💡 Teaching
 - *2024.09 - 2024.12* &nbsp; Introduction to Econometrics (PhD), Teaching Assistant, ESSEC Business School
 - *2023.03 - 2023.07* &nbsp; Quantitative Business Research (BSc), Assistant Lecturer, Copenhagen Business School
 - *2023.01 - 2023.05* &nbsp; Predictive Analysis (MSc), Teaching Assistant, Copenhagen Business School
 
+<br/>
 
 # 🎖 Honors and Awards
 -	ESSEC Business School PhD Scholarship, 2023 
@@ -51,12 +56,16 @@ Outside of academia, I enjoy swimming, playing badminton, reading history, and t
 -	Innovation Scholarship, Shanghai University, 2018
 - China Scholarship Council, Exchange Program at University West (Swedish: Högskolan Väst), 2018
 
+<br/>
 
 # 🀅 Professional Qualification
 - *2025.04 – Now* &nbsp; ACCA Member
 
+<br/>
 
 # 🔥 News
+
+<br/>
 
 # CV
 [**Download CV (PDF)**](https://www.dropbox.com/scl/fi/96vk83tqy6s5srwmsa3vg/CV.pdf?rlkey=0jp4wi22xpybvt20ntuh2q8i0&st=2nr1ucph&dl=0)
