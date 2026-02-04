@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Wenliang (Frank) Min"
+title                    : "Wenliang Min"
 description              : "PhD Student in Finance"
 repository               : "mwlfrank.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Wenliang (Frank) Min"
+  name             : "Wenliang Min"
   avatar           : "images/profile.png"
   bio              : "ESSEC Business School"
   location         : "Paris, France"
