@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 <br/>
 # About Me
-I am a PhD student in Finance at [ESSEC Business School](https://www.essec.edu/en/pages/finance-department/),under the supervision of [Prof. Pat Akey](https://sites.google.com/view/patakey/home/) and [Prof. Victor Saint-Jean](https://sites.google.com/view/victorsaintjean/home). I hold a Master’s degree in Advanced Economics and Finance from Copenhagen Business School and a Master’s degree in Construction Economics and Management from University College London (UCL). My research focuses on empirical corporate finance, especially in the intersection of institutional investors, corporate governance, politics, and sustainable finance. 
+I am a PhD student in Finance at [ESSEC Business School](https://www.essec.edu/en/pages/finance-department/), under the supervision of [Prof. Pat Akey](https://sites.google.com/view/patakey/home/) and [Prof. Victor Saint-Jean](https://sites.google.com/view/victorsaintjean/home). I hold a Master’s degree in Advanced Economics and Finance from Copenhagen Business School and a Master’s degree in Construction Economics and Management from University College London (UCL). My research focuses on empirical corporate finance, especially in the intersection of institutional investors, corporate governance, politics, and sustainable finance. 
 
 <br/>
 
