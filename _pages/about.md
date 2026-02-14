@@ -77,7 +77,7 @@ Outside of academia, I enjoy swimming, playing badminton, reading history, and t
 <br/>
 
 # 🌍 Visitors
-<div class="visitor-map">
+<div class="visitor-map" style="max-width:800px;height:400px;margin:auto;">
   <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=5OAbbGQ2mMis2fm3SVKLtiKywngug7sRSYBJkV1RkJ8&cl=ffffff&w=a"></script>
 </div>
 
