@@ -187,7 +187,7 @@ html[data-theme="dark"] .author__urls .far {
 }
 
 .theme-toggle-wrap {
-  margin-left: auto;      /* 把🌙推到最右 */
+  margin-left: 0.2rem;      /* 把🌙推到最右 */
   display: flex;
   align-items: center;
 }
@@ -199,7 +199,7 @@ html[data-theme="dark"] .author__urls .far {
   text-decoration: none;
   cursor: pointer;
   line-height: 1;
-  padding: 0 .6rem;
+  padding: 0 .2rem;
 }
 
 /* 可选：让🌙和汉堡按钮别贴太紧（桌面/移动都生效） */
