@@ -1,17 +1,14 @@
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
-      <!-- 给 nav 加 position: relative，方便里面元素绝对定位 -->
-      <nav id="site-nav" class="greedy-nav" style="position: relative;">
+      <nav id="site-nav" class="greedy-nav">
 
-        <button>
-          <div class="navicon"></div>
-        </button>
-
+        <!-- ✅ 主导航链接 -->
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
             <a href="#about-me">Homepage</a>
           </li>
+
           {% for link in site.data.navigation.main %}
             <li class="masthead__menu-item">
               <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
@@ -19,25 +16,31 @@
           {% endfor %}
         </ul>
 
-        <ul class="hidden-links hidden"></ul>
+        <!-- ✅ 主题切换按钮（放在 visible-links 外部） -->
+        <div class="theme-toggle-wrap">
+          <a href="javascript:void(0);" 
+             id="theme-toggle" 
+             class="theme-toggle" 
+             aria-label="Toggle dark mode">🌙</a>
+        </div>
 
-        <!-- ================================
-             右上角 ESSEC Logo（关键部分）
-             ================================ -->
+        <!-- ✅ 右上角 ESSEC Logo -->
         <a class="school-logo"
            href="https://www.essec.edu/"
-           target="_blank"
-           style="position:absolute;
-                  right:1.5rem;
-                  top:50%;
-                  transform:translateY(-50%);">
+           target="_blank">
           <img src="{{ '/images/essec-logo.png' | relative_url }}"
-               alt="ESSEC Logo"
-               style="height:45px;">
+               alt="ESSEC Logo">
         </a>
+
+        <!-- ✅ 标准移动端菜单按钮 -->
+        <button class="greedy-nav__toggle" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+
+        <ul class="hidden-links hidden"></ul>
 
       </nav>
     </div>
   </div>
 </div>
-
