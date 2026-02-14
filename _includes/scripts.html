@@ -1,4 +1,4 @@
-<script src="assets/js/main.min.js"></script>
+<script src="{{ '/assets/js/main.min.js' | relative_url }}"></script>
 
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
@@ -13,23 +13,24 @@
     btn.textContent = mode === "dark" ? "☀️" : "🌙";
   };
 
- const saved = localStorage.getItem("theme");
+  const saved = localStorage.getItem("theme");
 
   if (saved === "dark" || saved === "light") {
     // 用户之前选过，优先用用户选择
     apply(saved);
   } else {
-  // 没选过：默认夜间模式
-    apply("dark");
+    // 没选过：默认日间模式
+    apply("light");
   }
 
   btn.addEventListener("click", (e) => {
-  e.preventDefault();
-  const current = document.documentElement.getAttribute("data-theme") || "light";
-  const next = current === "dark" ? "light" : "dark";
-  localStorage.setItem("theme", next);
-  apply(next);
+    e.preventDefault();
+    const current =
+      document.documentElement.getAttribute("data-theme") || "light";
+    const next = current === "dark" ? "light" : "dark";
+    localStorage.setItem("theme", next);
+    apply(next);
   });
-
 })();
 </script>
+
