@@ -276,8 +276,16 @@ html[data-theme="dark"] .author__urls .far {
 }
 
 /* ===== ESSEC logo size ===== */
+a.school-logo {
+  display: flex;
+  align-items: center;
+  margin-left: 0.6rem;
+}
+
 a.school-logo > img {
-  height: 30px !important;
-  width: auto !important;
+  height: 34px;      /* 你在这里调：30/34/38 都行 */
+  width: auto;
+  max-height: none;  /* 防止被别的 max-height 卡住 */
   display: block;
 }
+
