@@ -40,7 +40,7 @@ Outside of academia, I enjoy swimming, playing badminton, reading history, and t
 - ## Working Papers
 
 - ## Working in Progress
-- ### CEO Political Ideology and Firm's Human Capital Allocation
+### CEO Political Ideology and Firm's Human Capital Allocation
 
 <br/>
 
