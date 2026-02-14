@@ -285,3 +285,9 @@ html[data-theme="dark"] .author__urls .far {
   background: rgba(255,255,255,0.18);
   border-radius: 10px;
 }
+
+a.school-logo > img {
+  height: 10px !important;
+  width: auto !important;
+  display: block;
+}
