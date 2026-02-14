@@ -286,7 +286,7 @@ a.school-logo{
 }
 
 a.school-logo > img{
-  height: 40px;            /* 你想要多大就在这调：30/32/36 */
+  height: 50px;            /* 你想要多大就在这调：30/32/36 */
   width: auto;
   max-width: none !important;  /* 关键：不要跟随容器缩 */
   display: block;
