@@ -83,8 +83,6 @@
         }
 
     }
-
-
 }
 
 $scroll_offset : 2em;
@@ -106,4 +104,171 @@ h1:before, .anchor:before {
     color: white;
     background-color: #00369f;
     font-size: .8em;
+}
+
+/* ===== Dark mode ===== */
+html[data-theme="dark"],
+:root[data-theme="dark"] {
+  background-color: #0f1115;
+  color: #e6e6e6;
+}
+
+html[data-theme="dark"] body {
+  background-color: #0f1115;
+  color: #e6e6e6;
+}
+
+html[data-theme="dark"] a {
+  color: #7aa2ff;
+}
+
+/* 悬停效果（可选） */
+#theme-toggle:hover {
+  opacity: 0.8;
+}
+
+/* ===== Dark mode: masthead / nav ===== */
+html[data-theme="dark"] .masthead,
+html[data-theme="dark"] .masthead__inner-wrap,
+html[data-theme="dark"] .masthead__menu,
+html[data-theme="dark"] .greedy-nav {
+  background-color: #0f1115 !important;
+  color: #e6e6e6 !important;
+}
+
+html[data-theme="dark"] .greedy-nav a,
+html[data-theme="dark"] .masthead a,
+html[data-theme="dark"] .greedy-nav .visible-links a {
+  color: #e6e6e6 !important;
+}
+
+/* （可选）隐藏菜单弹出的背景也变暗 */
+html[data-theme="dark"] .hidden-links {
+  background-color: #0f1115 !important;
+}
+html[data-theme="dark"] .hidden-links a {
+  color: #e6e6e6 !important;
+}
+
+/* ===== Dark mode: sidebar icons ===== */
+html[data-theme="dark"] .author__urls i,
+html[data-theme="dark"] .author__urls svg,
+html[data-theme="dark"] .author__urls .fa,
+html[data-theme="dark"] .author__urls .fas,
+html[data-theme="dark"] .author__urls .fab,
+html[data-theme="dark"] .author__urls .far {
+  color: #e6e6e6 !important;
+  fill: #e6e6e6 !important;
+}
+
+/* =========================
+   Visitors map (MapMyVisitors)
+   ========================= */
+
+.visitor-map {
+  max-width: 550px;      /* 调小地图宽度 */
+  margin: 1.5em 0;  
+  text-align: left;
+}
+
+.visitor-map iframe {
+  width: 100% !important;
+  height: auto !important;
+}
+
+/* ===== Theme toggle: stable on desktop + mobile ===== */
+/* 依赖 masthead.html 里把 #theme-toggle 放在 .theme-toggle-wrap 中，且在 .visible-links 之外 */
+
+.greedy-nav {
+  display: flex;
+  align-items: center;
+}
+
+.theme-toggle-wrap {
+  margin-left: auto;      /* 把🌙推到最右 */
+  display: flex;
+  align-items: center;
+}
+
+#theme-toggle {
+  position: static;       /* 关键：不要 absolute */
+  transform: none;
+  font-size: 1.2em;
+  text-decoration: none;
+  cursor: pointer;
+  line-height: 1;
+  padding: 0 .6rem;
+}
+
+/* 可选：让🌙和汉堡按钮别贴太紧（桌面/移动都生效） */
+.greedy-nav__toggle {
+  margin-left: .2rem;
+}
+
+/* ✅ 手机端：把🌙再往左挪一点，避免和三条线几乎重叠 */
+@media (max-width: 768px) {
+  .theme-toggle-wrap {
+    padding-right: 56px;   /* 给汉堡按钮留位置：48~64px 之间调 */
+  }
+
+  #theme-toggle {
+    margin-right: 0;       /* 这里不靠 margin-right 解决 */
+  }
+}
+
+
+@media (min-width: 1024px) {
+  body {
+    transform: scale(0.95);
+    transform-origin: top center;
+  }
+
+  html {
+    overflow-x: hidden;
+  }
+}
+
+/* ===== Scrollable News box ===== */
+.news-box{
+  max-height: 170px;        /* 想更高就调大：200/240px */
+  overflow-y: auto;         /* 关键：出现上下滚动条 */
+  padding: 0.9rem 1rem;
+  margin: 0.8rem 0 1.2rem 0;
+
+  border: 1px solid rgba(255,255,255,0.12);
+  border-radius: 12px;
+  background: rgba(255,255,255,0.04);
+
+  /* 避免横向一条线滚走 */
+  white-space: normal;
+}
+
+/* 列表竖排 + 间距 */
+.news-list{
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.news-list li{
+  display: block;           /* 强制一条一行 */
+  margin: 0.45rem 0;
+  line-height: 1.45;
+}
+
+/* 日期小胶囊效果（可选） */
+.news-date{
+  display: inline-block;
+  font-weight: 700;
+  margin-right: 0.6rem;
+  opacity: 0.9;
+}
+
+/* 滚动条美化（可选，Chrome/Edge） */
+.news-box::-webkit-scrollbar{
+  width: 8px;
+}
+.news-box::-webkit-scrollbar-thumb{
+  background: rgba(255,255,255,0.18);
+  border-radius: 10px;
 }
