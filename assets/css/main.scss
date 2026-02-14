@@ -40,18 +40,7 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* ===== ESSEC logo size ===== */
-.school-logo {
-  display: flex;
-  align-items: center;
-  margin-left: 0.6rem;   /* 可选：与🌙保持一点距离 */
-}
 
-.school-logo img {
-  height: 8px;          /* 你想要的缩小尺寸：28-34都合理 */
-  width: auto;
-  display: block;
-}
 
 .paper-box {
     display: flex;
@@ -286,6 +275,7 @@ html[data-theme="dark"] .author__urls .far {
   border-radius: 10px;
 }
 
+/* ===== ESSEC logo size ===== */
 a.school-logo > img {
   height: 30px !important;
   width: auto !important;
