@@ -28,7 +28,7 @@ Outside of academia, I enjoy swimming, playing badminton, reading history, and t
 <br/>
 
 # 📖 Educations
-- *2023.09 - Now*, &nbsp; &nbsp; &nbsp; &nbsp; PhD Student in Finance, ESSEC Business School
+- *2023.09 - Now*, &nbsp; &nbsp; &nbsp; &nbsp; PhD Candidate in Finance, ESSEC Business School
 - *2023.09 - 2025.07*,   &nbsp; Master of Science in Business Administration Research, ESSEC Business School
 - *2021.09 - 2023.07*,    &nbsp; Master of Science in Advanced Economics and Finance, Copenhagen Business School
 - *2020.09 - 2021.09*,     &nbsp; Master of Science in Construction Economics and Management, University College London
