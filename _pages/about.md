@@ -44,6 +44,7 @@ Outside of academia, I enjoy swimming, playing badminton, reading history, and t
 <br/>
 
 # 💡 Teaching
+- *2026.03 - 2026.06* &nbsp; Mergers & Acquisitions (MSc), Teaching Assistant, ESSEC Business School
 - *2024.09 - 2024.12* &nbsp; Introduction to Econometrics (PhD), Teaching Assistant, ESSEC Business School
 - *2023.03 - 2023.07* &nbsp; Quantitative Business Research (BSc), Assistant Lecturer, Copenhagen Business School
 - *2023.01 - 2023.05* &nbsp; Predictive Analysis (MSc), Teaching Assistant, Copenhagen Business School
