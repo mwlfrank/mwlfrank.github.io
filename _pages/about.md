@@ -29,6 +29,7 @@ Outside of academia, I enjoy swimming, playing badminton, reading history, and t
 
 
 # 🔥 News
+- *2026.06 &nbsp; Attend PhD Summer School on AI and Natural Language Processing in Financial Economics, USI Lugano (Switzerland)
 
 <br/>
 
