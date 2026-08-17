@@ -65,7 +65,7 @@ Outside of academia, I enjoy swimming, playing badminton, reading history, and t
 -	The Golden Scholarship for Exchange Programme, 2019 
 -	Top Academic Scholarship, Shanghai University, 2018 
 -	Innovation Scholarship, Shanghai University, 2018
-- China Scholarship Council, Exchange Program at University West (Swedish: Högskolan Väst), 2018
+- Undergraduate Exchange Program Scholarship at University West (Swedish: Högskolan Väst), 2018
 
 <br/>
 
