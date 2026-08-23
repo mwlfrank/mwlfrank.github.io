@@ -48,7 +48,7 @@ Outside of academia, I enjoy swimming, playing badminton, reading history, and t
    *Draft under Review*
 
 2. **Political Alignment and Corporate Demand for Growth Skills**  
-   with [Yuquan Li](https://harleyli228.github.io/)
+   with [Yuquan Li](https://harleyli228.github.io/) <br/>
    *Draft under Review*
 
 ## Working in Progress
