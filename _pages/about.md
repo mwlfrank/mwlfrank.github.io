@@ -22,7 +22,7 @@ I am a PhD candidate in Finance at [ESSEC Business School](https://www.essec.edu
 
 <br/>
 
-Outside of academia, I enjoy swimming, playing badminton, reading history, and traveling. I am also a crazy FC Barcelona fan. Visca Barça♥️💙!
+Outside of academia, I enjoy swimming, playing badminton, reading history, and traveling. I am also a crazy FC Barcelona culer. Visca Barça♥️💙!
 
 
 <br/>
