@@ -47,8 +47,7 @@ Outside of academia, I enjoy swimming, playing badminton, reading history, and t
 1. **Political Alignment and Investor Discipline: Evidence from Mutual Fund Responses to Reputation Incidents**  
    *Draft under Review*
 
-2. **Political Alignment and Corporate Demand for Growth Skills**  
-   with [Yuquan Li](https://harleyli228.github.io/) <br/>
+2. **Political Alignment and Corporate Demand for Growth Skills** with [Yuquan Li](https://harleyli228.github.io/) <br/>
    *Draft under Review*
 
 ## Working in Progress
@@ -56,6 +55,7 @@ Outside of academia, I enjoy swimming, playing badminton, reading history, and t
 <br/>
 
 # 💡 Teaching
+- *2026.09 - 2026.12* &nbsp; Finance I (BBA, two sessions), Instructor, ESSEC Business School
 - *2026.03 - 2026.06* &nbsp; Mergers & Acquisitions (MSc), Teaching Assistant, ESSEC Business School
 - *2024.09 - 2024.12* &nbsp; Introduction to Econometrics (PhD), Teaching Assistant, ESSEC Business School
 - *2023.03 - 2023.07* &nbsp; Quantitative Business Research (BSc), Assistant Lecturer, Copenhagen Business School
