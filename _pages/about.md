@@ -44,7 +44,7 @@ Outside of academia, I enjoy swimming, playing badminton, reading history, and t
 
 # 📝 Research
 ## Working Papers
-1. **Political Alignment and Investor Discipline: Evidence from Mutual Fund Responses to Reputation Incidents**  
+1. **Political Alignment and Investor Discipline: Evidence from U.S. Mutual Fund**  
    *Draft under Review*
 
 2. **Political Alignment and Corporate Demand for Growth Skills** with [Yuquan Li](https://harleyli228.github.io/) <br/>
