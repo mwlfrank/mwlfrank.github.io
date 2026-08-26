@@ -47,7 +47,7 @@ Outside of academia, I enjoy swimming, playing badminton, reading history, and t
 1. **Political Alignment and Investor Discipline: Evidence from U.S. Mutual Fund**  
    *Draft under Review*
 
-2. **Political Alignment and Corporate Demand for Growth Skills** with [Yuquan Li](https://harleyli228.github.io/) <br/>
+2. **Political Alignment and Corporate Demand for Growth Skills** with [Yuquan Li](https://yuquan-li.github.io/) <br/>
    *Draft under Review*
 
 ## Working in Progress
